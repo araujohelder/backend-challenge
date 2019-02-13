@@ -28,7 +28,7 @@ public class SwaggerConfig extends WebMvcConfigurationSupport {
 
 	  private ApiInfo metaData() {
 	    return new ApiInfoBuilder()
-	        .title(" API Rest desafio invillia")
+	        .title(" API Rest desafio invillia - Helder Araujo")
 	        .description("\"Desafio invillia swagger\"")
 	        .version("1.0.0")
 	        .licenseUrl("https://invillia.com/")
